@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: UM\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Paginate automatically"
+msgstr "Автоматическая разбивка на страницы"
+
+msgid "don't paginate"
+msgstr "без разбивки"
+
+msgid "split with separator"
+msgstr "с разделителем"
+
+msgid "without html validation"
+msgstr "без проверки целостности html"
+
+msgid "after every %s chars (1500 min.)"
+msgstr "каждые %s символов (минимум 1500)"
+
+msgid "Allows to automatically split a post into pages by &lt;!--nextpage--&gt; tag, with html validity maintenance"
+msgstr "Позволяет автоматически разбивать публикации на страницы с помощью тега &lt;!--nextpage--&gt;, с соблюдением валидности html"
